@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\METRODATA\\TUGAS\\VS\\API\\API\\API.csproj": {}
+    "D:\\METRODATA\\TUGAS\\VS\\API_GIT\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\METRODATA\\TUGAS\\VS\\API\\API\\API.csproj": {
+    "D:\\METRODATA\\TUGAS\\VS\\API_GIT\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\METRODATA\\TUGAS\\VS\\API\\API\\API.csproj",
+        "projectUniqueName": "D:\\METRODATA\\TUGAS\\VS\\API_GIT\\API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\METRODATA\\TUGAS\\VS\\API\\API\\API.csproj",
+        "projectPath": "D:\\METRODATA\\TUGAS\\VS\\API_GIT\\API\\API\\API.csproj",
         "packagesPath": "C:\\Users\\icani\\.nuget\\packages\\",
-        "outputPath": "D:\\METRODATA\\TUGAS\\VS\\API\\API\\obj\\",
+        "outputPath": "D:\\METRODATA\\TUGAS\\VS\\API_GIT\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\icani\\AppData\\Roaming\\NuGet\\NuGet.Config",

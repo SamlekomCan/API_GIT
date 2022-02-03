@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LW8BorkhpowYp1spA5XSg8vk9Y/cH6rtDHAtNZIR8n33gAqA4pIo36ypCRk+3zLEoeer6Z53xqapPujENS6vxw==",
+  "dgSpecHash": "/impMIW8wCGl02Z0U6QrT5XDDBBjwdo8IvmICJg3yP1xyn0wGb4gkTWHdjHkAqS842C8ndvaTP7SYKXGVsr0CA==",
   "success": true,
-  "projectFilePath": "D:\\METRODATA\\TUGAS\\VS\\API\\Client\\Client.csproj",
+  "projectFilePath": "D:\\METRODATA\\TUGAS\\VS\\API_GIT\\API\\Client\\Client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
