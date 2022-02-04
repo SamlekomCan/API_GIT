@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_LayoutBelajar";
+}
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand text-white font" asp-area="" asp-controller="Home" asp-action="Index">CAN</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">HOME</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Privacy">PROFILE</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <h1>GRID SYSTEM</h1>
+        <div class="row justify-content-center borderNeed">
+            <div class="col-md-5 bg-white borderNeed">
+                Tincidunt integer eu augue augue nunc elit dolor, luctus placerat scelerisque euismod, iaculis eu lacus nunc mi elit, vehicula ut laoreet ac, aliquam sit amet justo nunc tempor, metus vel.
+            </div>
+            <div class="col-md-5">
+                <div class="row col-md-auto bg-warning borderNeed">
+                    Tincidunt integer eu augue augue nunc elit dolor, luctus placerat scelerisque euismod, iaculis eu lacus nunc mi elit, vehicula ut laoreet ac, aliquam sit amet justo nunc tempor, metus vel.
+                </div>
+                <div class="row col-md-auto bg-secondary borderNeed">
+                    Tincidunt integer eu augue augue nunc elit dolor, luctus placerat scelerisque euismod, iaculis eu lacus nunc mi elit, vehicula ut laoreet ac, aliquam sit amet justo nunc tempor, metus vel.
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="border-top footer text-muted fixed-bottom text-center bg-dark">
+        <div class="container text-white">
+            &copy; 2022 - ICAN - <a asp-area="" asp-controller="Home" asp-action="Profile">Privacy</a>
+        </div>
+    </footer> 
+</body>

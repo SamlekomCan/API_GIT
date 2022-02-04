@@ -47,7 +47,6 @@ D:\METRODATA\TUGAS\VS\API_GIT\API\Client\bin\Debug\netcoreapp3.1\Client.dll
 D:\METRODATA\TUGAS\VS\API_GIT\API\Client\bin\Debug\netcoreapp3.1\Client.pdb
 D:\METRODATA\TUGAS\VS\API_GIT\API\Client\bin\Debug\netcoreapp3.1\Client.Views.dll
 D:\METRODATA\TUGAS\VS\API_GIT\API\Client\bin\Debug\netcoreapp3.1\Client.Views.pdb
-D:\METRODATA\TUGAS\VS\API_GIT\API\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
 D:\METRODATA\TUGAS\VS\API_GIT\API\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
 D:\METRODATA\TUGAS\VS\API_GIT\API\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
 D:\METRODATA\TUGAS\VS\API_GIT\API\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
@@ -76,3 +75,7 @@ D:\METRODATA\TUGAS\VS\API_GIT\API\Client\obj\Debug\netcoreapp3.1\Client.dll
 D:\METRODATA\TUGAS\VS\API_GIT\API\Client\obj\Debug\netcoreapp3.1\Client.pdb
 D:\METRODATA\TUGAS\VS\API_GIT\API\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
 D:\METRODATA\TUGAS\VS\API_GIT\API\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
+D:\METRODATA\TUGAS\VS\API_GIT\API\Client\obj\Debug\netcoreapp3.1\Razor\Views\Belajar\Index.cshtml.g.cs
+D:\METRODATA\TUGAS\VS\API_GIT\API\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+D:\METRODATA\TUGAS\VS\API_GIT\API\Client\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutBelajar.cshtml.g.cs
+D:\METRODATA\TUGAS\VS\API_GIT\API\Client\obj\Debug\netcoreapp3.1\Razor\Views\Belajar\IndexNav.cshtml.g.cs

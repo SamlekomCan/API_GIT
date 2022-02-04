@@ -1,0 +1,49 @@
+﻿.borderNeed {
+    border: 2px solid #000000;
+    margin: 3px;
+    padding: 3px;
+}
+
+/*body {
+    max-width: 800px;
+    margin: 30px auto;
+}*/
+/*
+section#b li:nth-child(4) {
+    background-color: aqua;
+}*/
+/*.satu {
+    width: 200px;
+    height: 200px;
+    background-color: deeppink;
+}
+
+.dua {
+    width: 200px;
+    height: 200px;
+    background-color: lawngreen;
+}
+
+.tiga {
+    width: 200px;
+    height: 200px;
+    background-color: deepskyblue;
+}*/
+/*section#b li:hover:nth-child(4) {
+    background-color: aqua;
+}*/
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+.font{
+    font-size: 30px;
+}
+.center{
+    align-items: end;
+}
